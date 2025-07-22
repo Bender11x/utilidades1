@@ -4,4 +4,5 @@ ela oferece um conjunto de serviços prontos que ajuda você a construir, melhor
 rapidamente, "sem precisar criar tudo no back-end".
 
 PRINCIPAIS FUNCIONALIDADES
-- Autenticação - login com e-mail/senha, google facebook, apple, telefone e etc
+- Autenticação - login com e-mail/senha, google facebook, apple, telefone e etc.
+no SQL
